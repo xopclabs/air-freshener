@@ -3,9 +3,9 @@
 
 This repository contains arduino code for a project we made as a coure work.
 
-* Features
+** Features
 - Activation on double clap
 - Activation on timer
 - Reading battery voltage using power-efficient voltage divider circuit
 - Sending data over the internet to a Firebase database
-- Online dashboard with interactive charts and settings
+- Online dashboard with interactive charts and settings [[https://labtorie.github.io/air-freshener-console/][(link)]] [[https://github.com/labtorie/air-freshener-console][(source)]]
