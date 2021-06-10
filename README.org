@@ -1,0 +1,11 @@
+#+TITLE: IoT air freshener
+
+
+This repository contains arduino code for a project we made as a coure work.
+
+* Features
+- Activation on double clap
+- Activation on timer
+- Reading battery voltage using power-efficient voltage divider circuit
+- Sending data over the internet to a Firebase database
+- Online dashboard with interactive charts and settings
